@@ -1,8 +1,3 @@
-Of course. Here is a professional README.md file for your project, perfect for a GitHub repository or for sharing with anyone who wants to understand your work.
-
-Political Tweet Sentiment Analysis Dashboard
-This project is an interactive web application built with Streamlit that performs sentiment analysis on tweet datasets related to two political figures. It visualizes and compares public sentiment through a clean, user-friendly dashboard, providing both quantitative and qualitative insights.
-
 📜 Project Description
 The goal of this project is to analyze and compare public opinion on social media. By processing thousands of tweets, the application determines the emotional tone (positive, negative, or neutral) of the conversation surrounding each political figure. The dashboard presents these findings through a series of intuitive charts and statistical summaries, making it easy to understand the nuances of public sentiment at a glance.
 
